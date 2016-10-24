@@ -1,0 +1,6 @@
+{
+  "name": "Runtimebuttontoclick",
+  "tagline": "runtime解决button被多次点击出现bug现象",
+  "body": "本demo解决了button被多次点击的问题\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
